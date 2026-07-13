@@ -4,7 +4,7 @@ This repository hosts the automated data ingestion engine and structural framewo
 
 ---
 
-## 📊 Dataset Profiles
+## Dataset Profiles
 
 ### 1. The ChokePoint Dataset (Portal Entryway Tracking)
 * **Spatial Resolution:** Raw, uncompressed frames calibrated to a sharp **$96 \times 96$ pixels**.
