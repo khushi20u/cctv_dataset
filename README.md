@@ -18,7 +18,7 @@ This repository hosts the automated data ingestion engine and structural framewo
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 cctv_surveillance_dataset/
