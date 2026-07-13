@@ -3,7 +3,7 @@ import zipfile
 
 # --- CONFIGURATION ---
 os.environ['KAGGLE_USERNAME'] = "YOUR_KAGGLE_USERNAME_HERE"
-os.environ['KAGGLE_KEY'] = "KGAT_87c517f25dcc6209f4eb91f82c3df9d6"
+os.environ['KAGGLE_KEY'] = "Your kaggle api key"
 
 # Define the new high-resolution datasets to ingest
 DATASETS = {
