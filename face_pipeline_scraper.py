@@ -7,7 +7,7 @@ os.environ['KAGGLE_KEY'] = "Your kaggle api key"
 
 # Define the new high-resolution datasets to ingest
 DATASETS = {
-    "lfw_high_res": "atulanandjha/lfw-people"
+    "choke_point": "danukatheja/choke-point"
 }
 
 BASE_DIR = "face_dataset_ingestion"
